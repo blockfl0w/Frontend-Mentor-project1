@@ -23,8 +23,8 @@ body{
     transform-origin: 50% 0%;
     background-image: radial-gradient(circle at 50% -50%,var(--darkBlue) 0%, var(--veryDarkBlue) 150%); 
     padding: 30px;
-    width: 30vw;
-    height: 30vw;
+    width: 25vw;
+    height: 25vw;
     border-radius: 22px;
     align-content: space-around;
     margin-top: 25%;
@@ -97,14 +97,13 @@ fieldset>button:hover{
     cursor: pointer;
     transition: 0.3s;
 }
-/* REMOVE */
 .divMain2{
     display: none;
     transform-origin: 50% 0%;
     background-image: radial-gradient(circle at 50% -50%,var(--darkBlue) 0%, var(--veryDarkBlue) 150%); 
     padding: 30px;
-    width: 30vw;
-    height: 30vw;
+    width: 25vw;
+    height: 25vw;
     border-radius: 22px;
     margin-top: 25%;
     justify-content: center;
